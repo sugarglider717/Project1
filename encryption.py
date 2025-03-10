@@ -43,7 +43,7 @@ def main():
         if cmd == "QUIT":
             break
         #set the passkey for encryption/decryption
-        elif cmd == "PASSKEY":
+        elif cmd == "PASS":
             #if an argument is provided, set the passkey
             if arg:
                 passkey = arg.upper()
