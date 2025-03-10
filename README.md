@@ -20,7 +20,7 @@ This project consists of **three separate programs** that work together to log, 
 ---
 
 ## How to Compile & Run the Program
-python3 driver.py TheLogFile.log
+`python3 driver.py TheLogFile.log`
 - you should be promoted with a menu of commands
 - all actions are logged in the log file
 
