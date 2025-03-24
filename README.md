@@ -4,9 +4,8 @@ lmm220012
 
 
 ## Project Overview
-This project consists of **three separate programs** that work together to log, encrypt, and decrypt messages. The programs communicate via **pipes**, and the entire system is controlled by the **driver program**.
+This project consists of three separate programs that work together to `log`, `encrypt`, and `decrypt` messages. The programs communicate via pipes, and the entire system is controlled by the `driver program`.
 
----
 
 ## Files & Their Roles
 | File           | Description |
@@ -17,7 +16,6 @@ This project consists of **three separate programs** that work together to log, 
 | `README.md`   | This documentation file. |
 | `test.log`    | The log file where all actions are recorded. **This file is generated at runtime.** |
 
----
 
 ## How to Compile & Run the Program
 `python3 driver.py TheLogFile.log`
@@ -29,4 +27,4 @@ This project consists of **three separate programs** that work together to log, 
 Before running the project, ensure you have **Python 3** installed.  
 Also, install `pytz` for timezone handling:
 ```bash
-pip install pytz
+pip3 install pytz
