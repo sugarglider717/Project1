@@ -23,12 +23,27 @@ This project consists of three separate programs that work together to `log`, `e
 **Menu Commands**:
 Once running, the following commands are available:
 - `password` — Set the encryption passkey.
-- `encrypt` — Encrypt a string (choose from history or enter a new one).
-- `decrypt` — Decrypt a string (choose from history or enter a new one).
-- `history` — Show previously used input/output strings.
-- `quit` — Exit the program and stop all processes.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fc574899-5735-445d-8e0d-afcc74f72e28" />
 
-  All actions are logged in the `TheLogFile` log file!
+
+
+- `encrypt` — Encrypt a string (choose from history or enter a new one).
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/ed507619-5e7d-43eb-9368-4bbc665635ee" />
+
+- `decrypt` — Decrypt a string (choose from history or enter a new one).
+<img width="393" alt="image" src="https://github.com/user-attachments/assets/de627b6a-0ca6-4c36-817f-27141902cf8f" />
+
+- `history` — Show previously used input/output strings.
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/d2536765-0011-4f6a-9e84-a2f819ae5475" />
+
+- `quit` — Exit the program and stop all processes.
+<img width="372" alt="image" src="https://github.com/user-attachments/assets/7b15d22f-975e-4f35-b009-c029840b9860" />
+
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/8ddd423f-44f9-4c58-a08a-684f3cf27e5d" />
+
+
+All actions are logged in the `TheLogFile` log file!  
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/bf3549b7-fe25-4b89-93d2-4cc1c7923808" />
 
 
 ### **Setup**
