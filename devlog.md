@@ -53,6 +53,7 @@ I plan to implement the programs in Python using the `subprocess` module for int
 ### Session Progress
 - Fixed issue where the driver program was creating a new log file instead of writing to the existing `TheLogFile.log`
 - Fixed issue where the input strings were not being saved in the history and could not retrieve it.
+- Got the files ready for submission and finished the assignment~~!!
   
 
 
