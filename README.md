@@ -2,6 +2,7 @@
 Logan Margabandu
 lmm220012
 
+This project and its Git log are viewable at `https://github.com/sugarglider717/Project1` ~~
 
 ## Project Overview
 This project consists of three separate programs that work together to `log`, `encrypt`, and `decrypt` messages. The programs communicate via pipes, and the entire system is controlled by the `driver program`.
