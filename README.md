@@ -22,11 +22,11 @@ This project consists of three separate programs that work together to `log`, `e
 - you should be promoted with a **menu** of commands
 **Menu Commands**:
 Once running, the following commands are available:
-`password` — Set the encryption passkey.
-`encrypt` — Encrypt a string (choose from history or enter a new one).
-`decrypt` — Decrypt a string (choose from history or enter a new one).
-`history` — Show previously used input/output strings.
-`quit` — Exit the program and stop all processes.
+- `password` — Set the encryption passkey.
+- `encrypt` — Encrypt a string (choose from history or enter a new one).
+- `decrypt` — Decrypt a string (choose from history or enter a new one).
+- `history` — Show previously used input/output strings.
+- `quit` — Exit the program and stop all processes.
 
   All actions are logged in the `TheLogFile` log file!
 
